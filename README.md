@@ -1,16 +1,6 @@
-# vigilant_journey
+# Pill Assist
 
-A new Flutter project.
+A tool for keeping track of your medication
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> [!WARNING]
+> You are currently entering a work-in-progress project. Everything here is expected to change and evolve at any moment. Be warned.
